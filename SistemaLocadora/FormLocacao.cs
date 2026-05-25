@@ -114,13 +114,15 @@ namespace SistemaLocadora
         }
 
         private void txtBuscaCliente_TextChanged(object sender, EventArgs e)
-        {
+        {   
+
+
             if (txtBuscaCliente.Text.Length < 2)
             {
                 lstClientes.Visible = false;
                 return;
             }
-
+ 
             using var conn = ConexaoDB.ObterConexao();
             conn.Open();
 
@@ -153,6 +155,26 @@ namespace SistemaLocadora
             _codClienteSelecionado = 0;
             cboFita.SelectedIndex = 0;
             txtValor.Text = "";
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void lstClientes_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

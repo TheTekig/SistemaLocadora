@@ -45,6 +45,7 @@ namespace SistemaLocadora
             cboSituacao.Items.Clear();
             cboSituacao.Items.Add("1 - Disponível");
             cboSituacao.Items.Add("2 - Locada");
+            cboSituacao.Items.Add("3 - Danificada");
             cboSituacao.SelectedIndex = 0;
         }
 
@@ -126,6 +127,21 @@ namespace SistemaLocadora
             cboFilme.SelectedIndex = 0;
             cboSituacao.SelectedIndex = 0;
             dtpAquisicao.Value = DateTime.Today;
+        }
+
+        private void label4_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void pictureBox2_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

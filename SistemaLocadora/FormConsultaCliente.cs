@@ -18,7 +18,7 @@ namespace SistemaLocadora
         private void lstCliente_Click(object sender, EventArgs e)
         {
             if (lstClientes.SelectedItem == null) return;
-            
+
             var row = (DataRowView)lstClientes.SelectedItem;
 
             _codClienteSelecionado = (int)row["cod_cliente"];
@@ -29,20 +29,20 @@ namespace SistemaLocadora
 
         private void txtBuscaCliente_TextChanged(object sender, EventArgs e)
         {
-            if(txtBuscaCliente.Text.Length < 3)
+            if (txtBuscaCliente.Text.Length < 3)
             {
                 lstClientes.Visible = false;
                 return;
             }
 
-            using var conn = ConexaoDB.ObterConexao();  
+            using var conn = ConexaoDB.ObterConexao();
             conn.Open();
 
             string sql = @"SELECT cod_cliente, nom_cliente 
                            FROM cliente 
                            WHERE nom_cliente ILIKE @busca 
                            ORDER BY nom_cliente 
-                           LIMIT 10"; 
+                           LIMIT 10";
 
             using var cmd = new NpgsqlCommand(sql, conn);
             cmd.Parameters.AddWithValue("busca", $"%{txtBuscaCliente.Text}%");
@@ -94,6 +94,16 @@ namespace SistemaLocadora
         }
 
         private void dgvHistorico_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void lblTotal_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label2_Click(object sender, EventArgs e)
         {
 
         }

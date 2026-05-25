@@ -51,8 +51,8 @@ namespace SistemaLocadora
             using var cmd = new NpgsqlCommand(sql, conn);
             using var reader = cmd.ExecuteReader();
 
-            var tabela = new DataTable();  
-            tabela.Load(reader);    
+            var tabela = new DataTable();
+            tabela.Load(reader);
 
             cboGenero.DataSource = tabela;
             cboGenero.DisplayMember = "nom_genero";
@@ -133,7 +133,7 @@ namespace SistemaLocadora
                     Limpar();
                 }
             }
-            catch(Exception ex)
+            catch (Exception ex)
             {
                 MessageBox.Show("Erro ao excluir filme: " + ex.Message);
             }
@@ -159,6 +159,21 @@ namespace SistemaLocadora
             txtNome.Text = "";
             cboCor.SelectedIndex = 0;
             cboGenero.SelectedIndex = 0;
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label3_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }

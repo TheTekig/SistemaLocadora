@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\diogo_4gfrzrh\\source\\repos\\SistemaLocadora\\SistemaLocadora\\SistemaLocadora.csproj": {}
+    "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\SistemaLocadora.csproj": {}
   },
   "projects": {
-    "C:\\Users\\diogo_4gfrzrh\\source\\repos\\SistemaLocadora\\SistemaLocadora\\SistemaLocadora.csproj": {
+    "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\SistemaLocadora.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\diogo_4gfrzrh\\source\\repos\\SistemaLocadora\\SistemaLocadora\\SistemaLocadora.csproj",
+        "projectUniqueName": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\SistemaLocadora.csproj",
         "projectName": "SistemaLocadora",
-        "projectPath": "C:\\Users\\diogo_4gfrzrh\\source\\repos\\SistemaLocadora\\SistemaLocadora\\SistemaLocadora.csproj",
-        "packagesPath": "C:\\Users\\diogo_4gfrzrh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\diogo_4gfrzrh\\source\\repos\\SistemaLocadora\\SistemaLocadora\\obj\\",
+        "projectPath": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\SistemaLocadora.csproj",
+        "packagesPath": "C:\\Users\\diogo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\diogo_4gfrzrh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\diogo\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -74,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.308/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.313/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
