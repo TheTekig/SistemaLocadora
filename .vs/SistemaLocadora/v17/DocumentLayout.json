@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\formconsultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\formconsultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\fitadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\fitadao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -11,24 +15,20 @@
       "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\filmedao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\locacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\locacaodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\formfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\formfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\formfita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\formfita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\conexaodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\formlocacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,12 +39,12 @@
       "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\formfilme.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\formconsultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\formconsultacliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\formfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\formfilme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\formfita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|solutionrelative:sistemalocadora\\formfita.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{995F0AD3-9261-479E-9088-8EC1209092AD}|SistemaLocadora\\SistemaLocadora.csproj|c:\\users\\diogo\\documents\\github\\sistemalocadora\\sistemalocadora\\formfita.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,17 +58,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\Form1.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\Form1.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\Form1.cs",
               "RelativeToolTip": "SistemaLocadora\\Form1.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAswBAAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwBAAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T12:20:16.569Z",
               "IsPinned": true,
@@ -84,7 +84,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\Program.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\Program.cs",
@@ -110,13 +110,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 0,
               "Title": "FormConsultaCliente.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FormConsultaCliente.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\FormConsultaCliente.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FormConsultaCliente.cs",
               "RelativeToolTip": "SistemaLocadora\\FormConsultaCliente.cs",
-              "ViewState": "AgIAAFwAAAAAAAAAAAAuwF8AAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwEsAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T14:21:17.086Z",
               "EditorCaption": ""
@@ -129,23 +129,22 @@
               "RelativeDocumentMoniker": "SistemaLocadora\\FormLocacao.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FormLocacao.cs",
               "RelativeToolTip": "SistemaLocadora\\FormLocacao.cs",
-              "ViewState": "AgIAAD0AAAAAAAAAAAAcwH8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T13:26:13.978Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "FormFita.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FormFita.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\FormFita.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FormFita.cs",
               "RelativeToolTip": "SistemaLocadora\\FormFita.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC0AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T13:08:18.032Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T13:08:18.032Z"
             },
             {
               "$type": "Document",
@@ -157,70 +156,68 @@
               "RelativeToolTip": "SistemaLocadora\\FormFita.Designer.cs",
               "ViewState": "AgIAAOIAAAAAAAAAAAApwPEAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T13:15:43.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T13:15:43.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "FormFilme.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FormFilme.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\FormFilme.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FormFilme.cs",
               "RelativeToolTip": "SistemaLocadora\\FormFilme.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAewGgAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-25T12:41:04.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-25T12:41:04.642Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "LocacaoDAO.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\LocacaoDAO.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\LocacaoDAO.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\LocacaoDAO.cs",
               "RelativeToolTip": "SistemaLocadora\\LocacaoDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwCQAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T12:04:32.275Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FitaDAO.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FitaDAO.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\FitaDAO.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FitaDAO.cs",
               "RelativeToolTip": "SistemaLocadora\\FitaDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAmwB4AAABAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T11:59:13.79Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "FilmeDAO.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FilmeDAO.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\FilmeDAO.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\FilmeDAO.cs",
               "RelativeToolTip": "SistemaLocadora\\FilmeDAO.cs",
-              "ViewState": "AgIAACkAAAAAAAAAAAAgwCwAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T11:49:38.424Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "ConexaoDB.cs",
               "DocumentMoniker": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\ConexaoDB.cs",
               "RelativeDocumentMoniker": "SistemaLocadora\\ConexaoDB.cs",
               "ToolTip": "C:\\Users\\diogo\\Documents\\GitHub\\SistemaLocadora\\SistemaLocadora\\ConexaoDB.cs",
               "RelativeToolTip": "SistemaLocadora\\ConexaoDB.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-25T02:59:27.063Z",
               "EditorCaption": ""

@@ -49,7 +49,7 @@ namespace SistemaLocadora
 
             cmd.Parameters.AddWithValue("@sit", novaSit);
             cmd.Parameters.AddWithValue("@cod", codFita);
-
+            
             cmd.ExecuteNonQuery();
         }
     }

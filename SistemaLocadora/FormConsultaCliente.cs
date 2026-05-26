@@ -29,6 +29,7 @@ namespace SistemaLocadora
 
         private void txtBuscaCliente_TextChanged(object sender, EventArgs e)
         {
+
             if (txtBuscaCliente.Text.Length < 3)
             {
                 lstClientes.Visible = false;
