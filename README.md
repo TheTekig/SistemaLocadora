@@ -129,14 +129,12 @@ Install-Package Npgsql
 |---|---|
 | 📖 **Matéria** | Banco de Dados I |
 | 🎓 **Tipo** | Trabalho Individual |
-| 📅 **Entrega** | 25/05/2026 |
-| 💯 **Valor** | 10 pontos |
 
 ---
 
 ## 👤 Autor
 
-Feito com 💙 para a disciplina de Banco de Dados I.
+Feito para a disciplina de Banco de Dados I.
 
 ---
 
